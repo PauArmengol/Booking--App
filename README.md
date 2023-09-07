@@ -1,8 +1,17 @@
-# React + Vite
+Creación de aplicación de reservas de Hotel con ReactJs 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto ReactJs + Vite.
 
-Currently, two official plugins are available:
+Integración y uso de React/TanStack Query para gestionar consultas y mutaciones.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Estado global con Zustand.
+
+Navegación con Wouter.
+
+Formularios con React Hooks Forms.
+
+Notificaciones con React Hot Toast.
+
+Diseño y estilos con Material UI.
+
+Los estilos se tiene que trabajar todavía. Éste proyecto es práctica de React.
