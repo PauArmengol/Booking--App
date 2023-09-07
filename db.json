@@ -1,0 +1,34 @@
+{
+    "hotels": [
+        {
+            "name": "Hotel Ritz",
+            "description": "Un lujoso hotel de 5 estrellas ubicado en la hermosa ciudad de Barcelona",
+            "id": 1,
+            "image": "/img/hotel1.jpg"
+        },
+        {
+            "name": "Hotel Paradiso",
+            "description": "Espectacular hotel en medio de las montañas",
+            "id": 2,
+            "image": "/img/hotel2.jpg"
+        },
+        {
+            "name": "Hotel Magic Mountain",
+            "description": "Hotel de Lujo",
+            "id": 3,
+            "image": "/img/hotel3.jpg"
+        },
+        {
+            "name": "Hotel Seasons",
+            "description": "Hotel Boutique ubicado en la costa amalfitana",
+            "id": 4,
+            "image": "/img/hotel4.jpg"
+        },
+        {
+            "name": "Hotel NY",
+            "description": "Elegancia y lujo para una estadia inolvidable",
+            "id": 5,
+            "image": "/img/hotel5.jpg"
+        }
+    ]
+}
